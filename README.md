@@ -20,6 +20,14 @@ I'm growing as a frontend developer by turning what I learn into practical proje
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
+## Featured Project
+
+### 🍜 [Asian Delight](https://github.com/Dan1709-eng/asian-delight)
+
+A responsive Asian restaurant landing page concept built with **HTML, CSS, and vanilla JavaScript**. It includes a mobile navigation menu, menu category filters, scroll animations, and restaurant content sections.
+
+[View the repository and project documentation](https://github.com/Dan1709-eng/asian-delight)
+
 ## What I'm Working Toward
 
 - Building responsive pages for mobile, tablet, and desktop
@@ -27,10 +35,6 @@ I'm growing as a frontend developer by turning what I learn into practical proje
 - Creating component-based interfaces with React
 - Working with APIs, forms, validation, and loading/error states
 - Improving accessibility, code organization, and debugging
-
-## Projects
-
-Explore my [repositories](https://github.com/Dan1709-eng?tab=repositories) to see my work. For each project, I aim to document its purpose, features, technologies, setup instructions, screenshots, and live demo when available.
 
 ## My Development Approach
 
